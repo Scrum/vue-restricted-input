@@ -1,6 +1,6 @@
 {
   "name": "vue-restricted-input",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Creates a pattern for restricted-input from data obtained from credit-card-type",
   "license": "MIT",
   "repository": "scrum/vue-restricted-input",
