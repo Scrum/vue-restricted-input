@@ -25,7 +25,8 @@
     "pretest": "clinton && npm run lint"
   },
   "files": [
-    "lib/"
+    "lib/",
+    "dist/"
   ],
   "keywords": [
     "card",
