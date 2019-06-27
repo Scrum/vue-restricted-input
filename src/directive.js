@@ -1,8 +1,8 @@
-import RestrictedInput from 'restricted-input';
+import Mask from 'credit-card-input-mask';
 
 export default {
   inserted(element, binding) {
-    element.masked = new RestrictedInput({
+    element.masked = new Mask({
       element,
       pattern: binding.value
     });
