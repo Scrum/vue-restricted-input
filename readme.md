@@ -1,13 +1,13 @@
 # vue-restricted-input
 
-> Input mask for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
+> Input mask for vue.js based on [credit-card-input-mask](https://github.com/Scrum/credit-card-input-mask)
 
 [![Travis Build Status](https://img.shields.io/travis/Scrum/vue-restricted-input/master.svg?style=flat-square&label=unix)](https://travis-ci.org/Scrum/vue-restricted-input)[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/GitScrum/vue-restricted-input/master.svg?style=flat-square&label=windows)](https://ci.appveyor.com/project/GitScrum/vue-restricted-input)[![node](https://img.shields.io/node/v/vue-restricted-input.svg?style=flat-square)]()[![npm version](https://img.shields.io/npm/v/vue-restricted-input.svg?style=flat-square)](https://www.npmjs.com/package/vue-restricted-input)[![Dependency Status](https://david-dm.org/Scrum/vue-restricted-input.svg?style=flat-square)](https://david-dm.org/Scrum/vue-restricted-input)[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/sindresorhus/xo)[![Coveralls status](https://img.shields.io/coveralls/Scrum/vue-restricted-input.svg?style=flat-square)](https://coveralls.io/r/Scrum/vue-restricted-input)
 
 [![npm downloads](https://img.shields.io/npm/dm/vue-restricted-input.svg?style=flat-square)](https://www.npmjs.com/package/vue-restricted-input)[![npm](https://img.shields.io/npm/dt/vue-restricted-input.svg?style=flat-square)](https://www.npmjs.com/package/vue-restricted-input)
 
 ## Why ?
-[restricted-input](https://github.com/braintree/restricted-input) greater support for old browsers, perfect work with carriage position, fast.
+[credit-card-input-mask](https://github.com/Scrum/credit-card-input-mask) greater support for old browsers, perfect work with carriage position, fast.
 
 ## Install
 
@@ -71,4 +71,4 @@ new Vue({
 
 ## Related
 
-- [restricted-input](https://github.com/braintree/restricted-input) - Allow restricted character sets in `input` elements.
+- [credit-card-input-mask](https://github.com/Scrum/credit-card-input-mask) - Allow restricted character sets in `input` elements.
