@@ -67,7 +67,7 @@ new Vue({
 })
 </script>
 ```
-> [Demo](https://jsfiddle.net/Scrum/bs87v4qr/)
+> <a href="https://jsfiddle.net/Scrum/bs87v4qr/" target="_blank">Demo</a>
 
 ## Related
 
