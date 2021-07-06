@@ -8,12 +8,6 @@ export default {
     input: 'src/index.js',
     output: [
         {
-          file: 'dist/vue-restricted-input.min.js',
-          format: 'umd',
-          name: 'VueRestrictedInput',
-          exports: 'named'
-        },
-        {
           file: 'lib/index.js',
           format: 'esm'
         }
