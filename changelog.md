@@ -1,6 +1,19 @@
+## 1.0.0 (2021-07-07)
+
+* build: add lock ([1632379](https://github.com/scrum/vue-restricted-input/commit/1632379))
+* build: remove dist because not need ([5296c3f](https://github.com/scrum/vue-restricted-input/commit/5296c3f))
+* refactor: to ts and build ([c484b6a](https://github.com/scrum/vue-restricted-input/commit/c484b6a))
+* docs: update link to demo in new tab ([726dd20](https://github.com/scrum/vue-restricted-input/commit/726dd20))
+* docs: update xo badge ([c1f5cea](https://github.com/scrum/vue-restricted-input/commit/c1f5cea))
+* Create funding.yml ([7ca48fe](https://github.com/scrum/vue-restricted-input/commit/7ca48fe))
+
+
+
 ## <small>0.0.4 (2019-06-27)</small>
 
+* 0.0.4 ([edc7358](https://github.com/scrum/vue-restricted-input/commit/edc7358))
 * build: bundle ([c6401d5](https://github.com/scrum/vue-restricted-input/commit/c6401d5))
+* build: update changelog ([d0cd473](https://github.com/scrum/vue-restricted-input/commit/d0cd473))
 * build: update depDev ([dba1201](https://github.com/scrum/vue-restricted-input/commit/dba1201))
 * perf: change to credit-card-input-mask ([3269e94](https://github.com/scrum/vue-restricted-input/commit/3269e94))
 
