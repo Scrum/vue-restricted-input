@@ -1,11 +1,19 @@
+## <small>1.0.1 (2021-07-07)</small>
+
+* build: ignore dist for github ([12586c6](https://github.com/scrum/vue-restricted-input/commit/12586c6))
+* style: remove console log ([7186405](https://github.com/scrum/vue-restricted-input/commit/7186405))
+
+
+
 ## 1.0.0 (2021-07-07)
 
+* 1.0.0 ([ab1f381](https://github.com/scrum/vue-restricted-input/commit/ab1f381))
+* Create funding.yml ([7ca48fe](https://github.com/scrum/vue-restricted-input/commit/7ca48fe))
 * build: add lock ([1632379](https://github.com/scrum/vue-restricted-input/commit/1632379))
 * build: remove dist because not need ([5296c3f](https://github.com/scrum/vue-restricted-input/commit/5296c3f))
 * refactor: to ts and build ([c484b6a](https://github.com/scrum/vue-restricted-input/commit/c484b6a))
 * docs: update link to demo in new tab ([726dd20](https://github.com/scrum/vue-restricted-input/commit/726dd20))
 * docs: update xo badge ([c1f5cea](https://github.com/scrum/vue-restricted-input/commit/c1f5cea))
-* Create funding.yml ([7ca48fe](https://github.com/scrum/vue-restricted-input/commit/7ca48fe))
 
 
 
