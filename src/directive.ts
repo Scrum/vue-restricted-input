@@ -9,7 +9,6 @@ const RestrictedInputDirective: Directive = {
     });
   },
   updated(element, binding) {
-    console.log(element.masked, binding.value);
     if (element.masked) {
       element.masked.setPattern(binding.value);
     }
