@@ -1,5 +1,14 @@
+## <small>1.0.2 (2021-07-09)</small>
+
+* ci: try v2 and cached github actions ([7b09056](https://github.com/scrum/vue-restricted-input/commit/7b09056))
+* Update readme.md ([69fd30b](https://github.com/scrum/vue-restricted-input/commit/69fd30b))
+* Update readme.md ([08813b5](https://github.com/scrum/vue-restricted-input/commit/08813b5))
+
+
+
 ## <small>1.0.1 (2021-07-07)</small>
 
+* 1.0.1 ([c20dec6](https://github.com/scrum/vue-restricted-input/commit/c20dec6))
 * build: ignore dist for github ([12586c6](https://github.com/scrum/vue-restricted-input/commit/12586c6))
 * style: remove console log ([7186405](https://github.com/scrum/vue-restricted-input/commit/7186405))
 
