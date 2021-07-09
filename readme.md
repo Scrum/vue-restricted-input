@@ -28,7 +28,6 @@ import App from './App.vue';
 
 const app = createApp(App);
 
-// As a directive
 app.directive('mask', VueRestrictedInputDirective);
 ```
 
